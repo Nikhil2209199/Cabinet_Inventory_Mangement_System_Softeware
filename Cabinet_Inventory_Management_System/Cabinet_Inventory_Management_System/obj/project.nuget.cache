@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSj6Vorj/pdJIuT/Eg5tidZDRGmK2q3IZ18BjMtfM20FaTpoUDdoLqEk7CvkVPCLfniZ6bub6Z7oUY/zM1clkg==",
+  "success": true,
+  "projectFilePath": "E:\\Cabinet_Ecommerse\\Cabinet_Inventory_Application\\Cabinet_Inventory_Management_System\\Cabinet_Inventory_Management_System\\Cabinet_Inventory_Management_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
